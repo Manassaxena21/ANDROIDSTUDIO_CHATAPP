@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57538958868",
+    "project_id": "twentyonenine-ca5d9",
+    "storage_bucket": "twentyonenine-ca5d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57538958868:android:b609369e8d76398ee2f901",
+        "android_client_info": {
+          "package_name": "com.Twentyonenine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57538958868-lf4pddanrhlfv5iqvtiab2b27m4gnk6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadq1Iswd2KcA0_jxaMdvFrgN0ogHY1V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57538958868-lf4pddanrhlfv5iqvtiab2b27m4gnk6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
